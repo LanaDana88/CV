@@ -1,0 +1,98 @@
+{
+"possition":["Bussines analyst", "QA"],
+"nameLa":"Alena Raminskaya",
+"address":[
+{
+"country":"Belaruss",
+"city":"Minsk",
+"regionCity":"Frunzincky"
+}
+],
+
+"contacts":[
+{
+"phone":"+375-29-6105-229",
+"email":"kama105229@gmail.com",
+"linkeDn":"helen-kamuinskaya"
+}
+],
+
+"aboutMe":"Very active, communicative, and inquisitive individual with a high level of responsibility. I'm not afraid to take on commitments. I am always genuinely interested in the successful outcome of a project. I learn easily, enjoy acquiring new knowledge, and strive to apply it in practice.",
+
+"expirence":[
+{
+"NKA":[
+{
+"possition":"Bussines Analyst",
+"periodStart":"since march 2024",
+"periodEnd":"to date",
+"responsibilities":["Documenting and communicating requirements to the team",
+"Creating prototypes for UI",
+"Creating use case and task for development team"]
+},
+{
+"intership":[
+{
+"possition":"Bussines Analyst",
+"periodStart":"since september 2023",
+"periodEnd":"march 2024",
+"responsibilities":["Documenting and communicating requirements to the team",
+"Writing documentation",
+"Project change management"],
+"myProject":"https://play.google.com/store/apps/details?id=site.pnpl.mira.ip&hl=en&pli=1"
+}
+],
+
+"skills":[
+"Bussines Analysis",
+"Documentation",
+"Prototyping",
+"Communication",
+"Trainig and Development"
+],
+"tools":[
+"Trello",
+"Jira",
+"ClickUp",
+"Figma",
+"Draw.io",
+"Postgre",
+"DBeaver",
+"Business Studio",
+"Postman",
+"SparcX"
+],
+"educations":[
+{
+
+"period":"2014-2017",
+"university":"Academyof Public Administration under the president of the Republic of Belarus",
+"specialisation":"Jurist"
+
+},
+
+{
+"period":"2013-2014",
+"university":"BNTU",
+"specialisation":"Higher teacher"
+},
+
+{
+"period":"1999-2005",
+"university":"BNTU",
+"specialisation":"Master of economy"
+}
+],
+
+"sertifications":[
+{
+"detePerid":"2024",
+"nameS":"System Analyst",
+"organisation":"Aston"
+},
+{
+"detePerid":"2023",
+"nameS":"UX/UI Designer for beginers",
+"organisation":"Belhard"
+}
+]}]}]}
